@@ -1,4 +1,5 @@
-# vue-tp-carousel
+# TP : Carousel 
+>Mise en pratique avec un système de transitions : La création d'un carousel.
 
 ## Project setup
 ```
